@@ -1,4 +1,4 @@
 # Project-Demo
 This is my first project
 <br>
-Author - Nikhil Govekar
+Author - Nikhil Govekar -- IT Trainer
